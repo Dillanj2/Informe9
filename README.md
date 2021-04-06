@@ -81,31 +81,44 @@ Camarillo, A. (27/07/2020). ¿Qué es un amplificador operacional?. Obtenido de:
 9. ANEXOS
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20TINKERCAD.jpeg">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/1.png">
 </p>
 <p align="center">
-  Figura 9.1: Circuito en Tinkercad.
+  Figura 9.1
 </p
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20LTspice.jpeg">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/2.png">
 </p>
 <p align="center">
-  Figura 9.1: Circuito en LTspice.
+  Figura 9.2
 </p
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_1%20cero.jpeg">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/3.png">
 </p>
 <p align="center">
-  Figura 9.3: Circuito con V_12 cero.
+  Figura 9.3
 </p
   
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_2%20cero.jpeg">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/4.png">
 </p>
 <p align="center">
-  Figura 9.4: Circuito con V_20 cero.
+  Figura 9.4
 </p
 
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/5.png">
+</p>
+<p align="center">
+  Figura 9.5
+</p
+  
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe9/blob/main/Im%C3%A1genes/6.png">
+</p>
+<p align="center">
+  Figura 9.6
+</p
 
