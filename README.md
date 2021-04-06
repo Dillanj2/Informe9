@@ -63,11 +63,35 @@ Podemos observar  con la ayuda del osciloscopio que entra una señal (color amar
 
 6. Preguntas
 
-6.1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+6.1 Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+
+•	Ganancia muy elevada
+
+•	Resistencia de entrada elevada
+
+•	Resistencia de salida muy baja
 
 6.2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
-6.3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+AMPLIFICADOR NO INVERSOR
+
+•	Amplifica la señal de entrada sin invertirla
+
+•	La resistencia de salida es cero por ser la propia de Ao ideal
+
+•	La resistencia de entrada es infinita puesto que la señal se aplica directamente a la entrada del operacional que estamos suponiendo ideal
+
+SUMADOR INVERSOR
+
+•	EL sumador inversor permite la suma analógica de varias señales con polaridad invertida sin que exista ninguna interacción entre los diferentes generadores ya que la entrada del operacional presenta un cortocircuito virtual
+
+SUMADOR NO INVERSOR
+
+•	La tensión de salida es proporcional ala suma de las tensiones de entrada
+
+AMPLIFICADOR DIFERENCIAL
+
+•	La ganancia solo depende de las resistencias R1 Y R2 y el factor de rechazo del modo común depende del grado de apareamiento de las dos resistencias
 
 7. CONCLUSIONES
 
