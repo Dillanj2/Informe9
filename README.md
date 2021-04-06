@@ -57,9 +57,9 @@ El amplifcador operacional tiene 2 entradas y una salida, ademas de la alimentac
 
 5.3 En todos los casos emplee un amplificados LM741.
 
-El procedimiento lo puede observar entrando al siguiente enlace:
+5.4 Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
 
-<p><a href="https://github.com/Dillanj2/Informe3/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_3.pdf">Procedimiento</a>
+Podemos observar  con la ayuda del osciloscopio que entra una señal (color amarillo imagen osicolcopio)  que es mas grande que la señal de salida (color azul  oscilosopio) esto se debe a la ganancia del amplificador , además podemos observar que  estamos trabajando con un amplificador inversor  lo cual hace que la señal se invierta con respecto a la de entrada
 
 6. Preguntas
 
